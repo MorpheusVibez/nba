@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["MorpheusVibez"]
   spec.email         = ["halodre24@gmail.com"]
 
-  spec.summary       = "A command line interface that shows a list of the top 8 NBA Teams by current record for the 2019-2020 season."
+  spec.summary       = "A command line interface that shows a list of the top 8 NBA Teams by power ranking for the 2019-2020 season."
   spec.description   = "User will be able to select a team and be provided a list of statistics for team selected."
   spec.homepage      = "https://github.com/MorpheusVibez"
   spec.license       = "MIT"
