@@ -1,3 +1,5 @@
 #!/usr/bin/env ruby
 
-puts "Hello"
+require "./lib/nba"
+
+Nba::CLI.new.call
