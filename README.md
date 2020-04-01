@@ -1,8 +1,7 @@
-# NBA Top 8 2019-2020
+# NBA 2019-2020
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/nba`. To experiment with that code, run `bin/console` for an interactive prompt.
+This is a list of 25 NBA Teams. Select a team for more information like team record, location, win percentage and playoff seed.
 
-TODO: Delete this and the text above, and describe your gem
 
 ## Installation
 
@@ -22,7 +21,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Select a team by corresponding number. You may select another team from the next menu by number or exit the program by typing exit.
 
 ## Development
 
